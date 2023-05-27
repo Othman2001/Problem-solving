@@ -1,0 +1,1 @@
+auto maxElement = std::max_element(myVector.begin(), myVector.end());
